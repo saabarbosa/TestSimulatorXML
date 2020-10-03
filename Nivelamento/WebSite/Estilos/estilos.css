@@ -1,0 +1,14 @@
+﻿body 
+{
+    font-family: "Trebuchet MS", "Helvetica", "Arial", "Verdana", "sans-serif"; 
+}
+
+/**
+ * CSS do Wizard do Exame
+ *
+ */
+.sideBar { display: none; background-color: #E5E5E5; border: Outset; font-weight: bold; Font-Size: 0.7em; color: White; text-align: Left; vertical-align: top; width: 150px; }
+.stepStyle { background-color: White; border: Solid 1px #E5E5E5; vertical-align: top; font-weight: normal;  Font-Size: 14px; padding: 20px;  }
+.headerStyle {  display: none; font-weight: bold; Font-Size: 14px; text-align: Left; vertical-align: top; min-height: 80px; }
+
+.tituloPergunta { Font-Size: 13px; font-weight: bold; color: #555555; }

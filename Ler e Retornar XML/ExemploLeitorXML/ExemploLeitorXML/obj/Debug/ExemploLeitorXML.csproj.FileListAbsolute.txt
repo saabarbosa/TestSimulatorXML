@@ -1,0 +1,5 @@
+c:\users\eddie\documents\visual studio 2010\Projects\ExemploLeitorXML\ExemploLeitorXML\bin\ExemploLeitorXML.dll
+c:\users\eddie\documents\visual studio 2010\Projects\ExemploLeitorXML\ExemploLeitorXML\bin\ExemploLeitorXML.pdb
+c:\users\eddie\documents\visual studio 2010\Projects\ExemploLeitorXML\ExemploLeitorXML\obj\Debug\ResolveAssemblyReference.cache
+c:\users\eddie\documents\visual studio 2010\Projects\ExemploLeitorXML\ExemploLeitorXML\obj\Debug\ExemploLeitorXML.dll
+c:\users\eddie\documents\visual studio 2010\Projects\ExemploLeitorXML\ExemploLeitorXML\obj\Debug\ExemploLeitorXML.pdb

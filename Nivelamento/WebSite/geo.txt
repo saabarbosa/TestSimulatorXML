@@ -1,0 +1,2 @@
+nao presta, vamos fazer em java
+o problema nao eh a linguagem e sim o SO.

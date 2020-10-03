@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project Title="Junior Placement_DEMO" Description="Adapted from Shipton, P. (2002). Chit Chat 1 &amp; 2. Oxford: Oxford University Press." Copyright="Cultura Inglesa Sergipe" MaxHour="0" MaxMin="10" LevelGroup="0" LevelName="0" FileType="0" TestCode="" ErrorLimit="5">
+  <Question Value="Hello! " Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="Hi!" Picture="" Correct="True"/>
+    <Answer Text="No!" Picture="" Correct="False"/>
+    <Answer Text="Yes!" Picture="" Correct="False"/>
+    <Answer Text="You?" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="What's this?" Text="" Picture="Picture/test_05.gif" Type="0" UseAnswerPic="False">
+    <Answer Text="A cat." Picture="" Correct="False"/>
+    <Answer Text="A monkey." Picture="" Correct="True"/>
+    <Answer Text="A bird." Picture="" Correct="False"/>
+    <Answer Text="A lion." Picture="" Correct="False"/>
+  </Question>
+  <Question Value="Mark the colours." Text="" Picture="" Type="1" UseAnswerPic="False">
+    <Answer Text="Blue." Picture="" Correct="True"/>
+    <Answer Text="Brown." Picture="" Correct="True"/>
+    <Answer Text="Book." Picture="" Correct="False"/>
+    <Answer Text="Yellow." Picture="" Correct="True"/>
+  </Question>
+  <Question Value="Read and mark the TRUE sentences. " Text="Joe is my best friend.&#xA;He is from England.&#xA;He has two pets. A cat and a dog.&#xA;Joe loves school. He is great student!&#xA;" Picture="C:\AutoTest\maker\projects\Placement_Junior\item_40.bmp" Type="1" UseAnswerPic="False">
+    <Answer Text="Joe is English." Picture="" Correct="True"/>
+    <Answer Text="Joe is 10 years old." Picture="" Correct="False"/>
+    <Answer Text="Joe has a cat." Picture="" Correct="True"/>
+    <Answer Text="Joe is not a good student." Picture="" Correct="False"/>
+  </Question>
+</project>

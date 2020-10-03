@@ -1,0 +1,137 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterAdmin.master.cs" Inherits="Private_Administrator_MasterAdmin" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+
+    <link rel="stylesheet" href="../../Jquery/themes/base/jquery.ui.all.css">
+	<script src="../../Jquery/jquery-1.5.1.js"></script>
+	<script src="../../Jquery/ui/jquery.ui.core.js"></script>
+	<script src="../../Jquery/ui/jquery.ui.widget.js"></script>
+	<script src="../../Jquery/ui/jquery.ui.accordion.js"></script>
+	<script src="../../Jquery/ui/jquery.ui.button.js"></script>
+	<link rel="stylesheet" href="../../Jquery/demos.css" type="text/css">
+    <link rel="stylesheet" href="~/Style.css" type="text/css" />
+
+
+    <style>
+
+    .demo{
+	    margin-top: 0;
+	    margin-bottom: 0;
+	    padding-left: 0px;
+	    padding-bottom:0px;
+    }
+    div.demo {
+	    padding:2px;
+    }
+
+
+    .ui-accordion .ui-accordion-content{
+      padding-left:0.75em;
+      padding-right:0.75em;
+
+    }
+    .accordion-item a {
+	    font: icon;
+	    font-size: 10px;
+	    border-bottom: 1px solid #F4F4F4;
+	    display:block;
+	    padding: 4px 3px 4px 8px;
+	    text-decoration: none;
+	    color: #555 ;
+	    margin:2px 0;
+	    height:13px;
+    }
+
+    .accordion-item a:hover,
+    .accordion-item a:focus,
+    .accordion-item a:hover,
+    .accordion-item a:focus {
+	    background: #f3f3f3;
+	    color:#000;
+	    -moz-border-radius: 5px; -webkit-border-radius: 5px;
+    }
+    .accordion-item a.selected {
+	    background: #555;
+	    color:#ffffff;
+	    -moz-border-radius: 5px; -webkit-border-radius: 5px;
+    }
+    
+    </style>
+	<script>
+	    $(function () {
+	        $("#accordion").accordion();
+
+	        var icons = {
+	            header: "ui-icon-circle-arrow-e",
+	            headerSelected: "ui-icon-circle-arrow-s"
+	        };
+	        $("#accordion").accordion({
+	            icons: icons
+	        });
+	        $("#toggle").button().toggle(function () {
+	            $("#accordion").accordion("option", "icons", false);
+	        }, function () {
+	            $("#accordion").accordion("option", "icons", icons);
+	        });
+
+	    });
+
+
+	</script>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+	<table width="100%" celppading="0" cellspacing="0" border="0" align="center">
+        <tr>
+            <td style="width:287px">
+	         <img src="../../Images/logo.png" alt="logo" width="286" height="100" /></td>
+            <td style="vertical-align:top;text-align:right; color: #FFFFFF; font: icon;font-size: 11px;">
+	            Nivelamento<br>
+	            <b><asp:LoginName ID="LoginName2" runat="server" />
+                &nbsp;</b>- 
+                <asp:LoginStatus ID="LoginStatus2" ForeColor="White" runat="server" LogoutAction="RedirectToLoginPage" LogoutText="encerrar" LoginText="entrar" />
+                <br>
+            	
+            </td>
+        </tr>
+    </table>
+
+
+
+	<table width="100%" celppading="0" cellspacing="0">
+        <tr>
+            <td style="width:180px; vertical-align:top;">
+
+<!-- menu jquery -->
+
+<div class="demo">
+ 
+<div id="accordion">
+	<h3><a href="#">Administração</a></h3>
+	<div>
+		<div class="accordion-item"><a href="ListUsers.aspx">Usuários</a></div>
+        <div class="accordion-item"><a href="ListRules.aspx">Regras</a></div>
+	</div>
+
+</div>
+
+<!-- fim menu jquery -->
+            </td>
+            <td style="vertical-align:top; padding:10px;">
+                <div>
+                    <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+                    </asp:ContentPlaceHolder>
+                </div>
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

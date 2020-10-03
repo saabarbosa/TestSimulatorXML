@@ -1,0 +1,5 @@
+C:\Projeto\CulturaInglesa\Nivelamento\ManipulaXMLCulturaInglesa\ManipulaXMLCulturaInglesa\bin\Debug\ManipulaXMLCulturaInglesa.dll
+C:\Projeto\CulturaInglesa\Nivelamento\ManipulaXMLCulturaInglesa\ManipulaXMLCulturaInglesa\bin\Debug\ManipulaXMLCulturaInglesa.pdb
+C:\Projeto\CulturaInglesa\Nivelamento\ManipulaXMLCulturaInglesa\ManipulaXMLCulturaInglesa\obj\Debug\ResolveAssemblyReference.cache
+C:\Projeto\CulturaInglesa\Nivelamento\ManipulaXMLCulturaInglesa\ManipulaXMLCulturaInglesa\obj\Debug\ManipulaXMLCulturaInglesa.dll
+C:\Projeto\CulturaInglesa\Nivelamento\ManipulaXMLCulturaInglesa\ManipulaXMLCulturaInglesa\obj\Debug\ManipulaXMLCulturaInglesa.pdb

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project Title="Nivelamento Adulto " Description="" Copyright="Cultura Inglesa Sergipe" MaxHour="0" MaxMin="30" LevelGroup="0" LevelName="0" FileType="0" TestCode="">
+  <result Name="BASIC 1" Value="0"/>
+  <result Name="BASIC 2" Value="4"/>
+  <result Name="BASIC 3" Value="7"/>
+  <result Name="PRE INTERMEDIATE 1" Value="10"/>
+  <result Name="PRE INTERMEDIATE 2" Value="12"/>
+  <result Name="INTERMEDIATE 1" Value="15"/>
+  <result Name="INTERMEDIATE 2" Value="18"/>
+  <result Name="UPPER INTERMEDIATE 1" Value="20"/>
+  <result Name="UPPER INTERMEDIATE 2" Value="24"/>
+  <result Name="ADVANCED 1" Value="28"/>
+  <result Name="ADVANCED 2" Value="31"/>
+  <result Name="ADVANCED 3" Value="35"/>
+  <result Name="HIGHER ADVANCED 1" Value="39"/>
+  <result Name="HIGHER ADVANCED 2" Value="44"/>
+  <result Name="HIGHER ADVANCED 3" Value="49"/>
+  <Question Value="What's your name?" Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="My name Peter." Picture="" Correct="False"/>
+    <Answer Text="Is Peter." Picture="" Correct="False"/>
+    <Answer Text="My name's Peter." Picture="" Correct="True"/>
+    <Answer Text="My name Peter's." Picture="" Correct="False"/>
+  </Question>
+  <Question Value="Where are you from?" Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="I from Brazil." Picture="" Correct="False"/>
+    <Answer Text="I Brazilian." Picture="" Correct="False"/>
+    <Answer Text="I'm from Brazil." Picture="" Correct="True"/>
+    <Answer Text="I'm from in Brazil." Picture="" Correct="False"/>
+  </Question>
+  <Question Value="What does your father do?" Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="He's an architect." Picture="" Correct="True"/>
+    <Answer Text="He's a architect." Picture="" Correct="False"/>
+    <Answer Text="He's architect." Picture="" Correct="False"/>
+    <Answer Text="He an architect." Picture="" Correct="False"/>
+  </Question>
+  <Question Value="Does your mother live in a house?" Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="Yes, she's live." Picture="" Correct="False"/>
+    <Answer Text="Yes, she is." Picture="" Correct="False"/>
+    <Answer Text="Yes, she does." Picture="" Correct="True"/>
+    <Answer Text="Yes, she lives." Picture="" Correct="False"/>
+  </Question>
+  <Question Value="How old are you?" Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="I have 15 years old." Picture="" Correct="False"/>
+    <Answer Text="I have 15 years." Picture="" Correct="False"/>
+    <Answer Text="I'm 15 years." Picture="" Correct="False"/>
+    <Answer Text="I am 15." Picture="" Correct="True"/>
+  </Question>
+  <Question Value="What does Jim do in his free time?" Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="He's always go to the beach." Picture="" Correct="False"/>
+    <Answer Text="He always go to the beach." Picture="" Correct="False"/>
+    <Answer Text="He go always to the beach." Picture="" Correct="False"/>
+    <Answer Text="He always goes to the beach." Picture="" Correct="True"/>
+  </Question>
+  <Question Value="How often does Mary visit her friends?" Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="Two times a month." Picture="" Correct="False"/>
+    <Answer Text="Twice a month." Picture="" Correct="True"/>
+    <Answer Text="Twice in a month." Picture="" Correct="False"/>
+    <Answer Text="Twice times a month." Picture="" Correct="False"/>
+  </Question>
+  <Question Value="Some years ago ______ only one shopping centre in Aracaju." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="there is" Picture="" Correct="False"/>
+    <Answer Text="there are" Picture="" Correct="False"/>
+    <Answer Text="there was" Picture="" Correct="True"/>
+    <Answer Text="there were" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="I ______ to bed early last night because I ______ very tired." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="went / am" Picture="" Correct="False"/>
+    <Answer Text="am / was" Picture="" Correct="False"/>
+    <Answer Text="went / was" Picture="" Correct="True"/>
+    <Answer Text="am going / went" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="Read the dialogue and mark the correct alternative." Text="Ann  -  How about going to the cinema this weekend?&#xA;Beth -  I'd love to, but I have to study for a test.&#xA;Ann  -  So, we can go next week then.&#xA;Beth -  That sounds great!&#xA;" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="Beth doesn't like cinema." Picture="" Correct="False"/>
+    <Answer Text="Beth likes the sound in the cinema." Picture="" Correct="False"/>
+    <Answer Text="Ann wants to go out with Beth." Picture="" Correct="True"/>
+    <Answer Text="Beth doesn't want to go out with Ann." Picture="" Correct="False"/>
+  </Question>
+  <Question Value="It's ______ today than it was yesterday." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="more hot" Picture="" Correct="False"/>
+    <Answer Text="the hottest" Picture="" Correct="False"/>
+    <Answer Text="hotter" Picture="" Correct="True"/>
+    <Answer Text="hottest" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="If I ______ Jane I ______ this book to her." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="will / see" Picture="" Correct="False"/>
+    <Answer Text="see / will give" Picture="" Correct="True"/>
+    <Answer Text="saw / gave" Picture="" Correct="False"/>
+    <Answer Text="am see / give" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="______ is bad for you." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="To smoke" Picture="" Correct="False"/>
+    <Answer Text="Smoking" Picture="" Correct="True"/>
+    <Answer Text="To smoking" Picture="" Correct="False"/>
+    <Answer Text="Smokes" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="He ______ to work when his car _______ down." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="drove to / broke" Picture="" Correct="False"/>
+    <Answer Text="drives / breaks" Picture="" Correct="False"/>
+    <Answer Text="was driving / broke" Picture="" Correct="True"/>
+    <Answer Text="driving / break" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="This restaurant servies ______ food in Aracaju." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="the better" Picture="" Correct="False"/>
+    <Answer Text="the good" Picture="" Correct="False"/>
+    <Answer Text="the best" Picture="" Correct="True"/>
+    <Answer Text="the better than" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="If I ______ more free time I _______ travel more often, but I'm always busy." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="have / will" Picture="" Correct="False"/>
+    <Answer Text="had / will" Picture="" Correct="False"/>
+    <Answer Text="will have / travel" Picture="" Correct="False"/>
+    <Answer Text="had / would" Picture="" Correct="True"/>
+  </Question>
+  <Question Value="I ______ to remember her phone number for more than 5 minutes, but I really can't." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="have tried" Picture="" Correct="False"/>
+    <Answer Text="had tried" Picture="" Correct="False"/>
+    <Answer Text="tried" Picture="" Correct="False"/>
+    <Answer Text="have been trying" Picture="" Correct="True"/>
+  </Question>
+  <Question Value="Although she loves music she _______ sing well." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="is never able" Picture="" Correct="False"/>
+    <Answer Text="was never able" Picture="" Correct="False"/>
+    <Answer Text="has never been able" Picture="" Correct="True"/>
+    <Answer Text="did never be able" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="When I saw Jane, she was kissing a boy. He _______ her new boyfriend." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="must be" Picture="" Correct="True"/>
+    <Answer Text="might be" Picture="" Correct="False"/>
+    <Answer Text="can't be" Picture="" Correct="False"/>
+    <Answer Text="would be" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="When he was at school he _______ a very good student." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="is" Picture="" Correct="False"/>
+    <Answer Text="used to being" Picture="" Correct="False"/>
+    <Answer Text="used to be" Picture="" Correct="True"/>
+    <Answer Text="did use to be" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="Where is the cinema please? She asked me _______" Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="where is the cinema" Picture="" Correct="False"/>
+    <Answer Text="where was the cinema" Picture="" Correct="False"/>
+    <Answer Text="where the cinema is" Picture="" Correct="False"/>
+    <Answer Text="where the cinema was" Picture="" Correct="True"/>
+  </Question>
+  <Question Value="I don't know his phone number _______." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="neither have I" Picture="" Correct="False"/>
+    <Answer Text="neither do I" Picture="" Correct="True"/>
+    <Answer Text="me too" Picture="" Correct="False"/>
+    <Answer Text="so do I" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="Steven Spilberg is a very goog film director. He _______ some great film." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="directed" Picture="" Correct="False"/>
+    <Answer Text="have directed" Picture="" Correct="False"/>
+    <Answer Text="has directed" Picture="" Correct="True"/>
+    <Answer Text="was directed" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="He died ______ a heart attack." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="of" Picture="" Correct="True"/>
+    <Answer Text="with" Picture="" Correct="False"/>
+    <Answer Text="because" Picture="" Correct="False"/>
+    <Answer Text="from" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="Don't blame other people ______ your own mistakes." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="because of" Picture="" Correct="False"/>
+    <Answer Text="about" Picture="" Correct="False"/>
+    <Answer Text="for" Picture="" Correct="True"/>
+    <Answer Text="with" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="He left the office earlier to ______ the traffic jam." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="avoid" Picture="" Correct="True"/>
+    <Answer Text="prevent from" Picture="" Correct="False"/>
+    <Answer Text="get rid of" Picture="" Correct="False"/>
+    <Answer Text="release" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="Is lunch ready?" Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="Yes, it will be ready soon." Picture="" Correct="False"/>
+    <Answer Text="In a few more minutes." Picture="" Correct="True"/>
+    <Answer Text="A few minutes ago." Picture="" Correct="False"/>
+    <Answer Text="It's been too long." Picture="" Correct="False"/>
+  </Question>
+  <Question Value="The castle is ______ over six hundred years old." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="said to be" Picture="" Correct="True"/>
+    <Answer Text="told to be" Picture="" Correct="False"/>
+    <Answer Text="spoken to be" Picture="" Correct="False"/>
+    <Answer Text="mentioned to be" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="He was accused ______ killing the old lady." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="for" Picture="" Correct="False"/>
+    <Answer Text="of" Picture="" Correct="True"/>
+    <Answer Text="to" Picture="" Correct="False"/>
+    <Answer Text="because" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="Would you mind ______ your passport?" Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="to show" Picture="" Correct="False"/>
+    <Answer Text="showing" Picture="" Correct="True"/>
+    <Answer Text="show" Picture="" Correct="False"/>
+    <Answer Text="of showing" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="He said: &quot;It wasn't me&quot;." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="He denied that he had stolen the money." Picture="" Correct="True"/>
+    <Answer Text="He denied robbing the money." Picture="" Correct="False"/>
+    <Answer Text="He denied that he had robbed the money." Picture="" Correct="False"/>
+    <Answer Text="He denied that he had stolen the bank." Picture="" Correct="False"/>
+  </Question>
+  <Question Value="After having recovered ______ a terrible illness his family decided to give a party to celebrate." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="of" Picture="" Correct="False"/>
+    <Answer Text="with" Picture="" Correct="False"/>
+    <Answer Text="from" Picture="" Correct="True"/>
+    <Answer Text="for" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="She treats him ______ he was her brother." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="like" Picture="" Correct="False"/>
+    <Answer Text="as though" Picture="" Correct="True"/>
+    <Answer Text="although" Picture="" Correct="False"/>
+    <Answer Text="even though" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="After having ______ about football, they stopped talking to each other." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="a fuss" Picture="" Correct="False"/>
+    <Answer Text="a discussion" Picture="" Correct="False"/>
+    <Answer Text="a speak" Picture="" Correct="False"/>
+    <Answer Text="an argument" Picture="" Correct="True"/>
+  </Question>
+  <Question Value="Sorry, I can't ______ the shelf to get the book you need." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="achieve" Picture="" Correct="False"/>
+    <Answer Text="reach" Picture="" Correct="True"/>
+    <Answer Text="attain" Picture="" Correct="False"/>
+    <Answer Text="catch up" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="He ______ to spend his holidays abroad." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="expects" Picture="" Correct="False"/>
+    <Answer Text="pretends" Picture="" Correct="False"/>
+    <Answer Text="intends" Picture="" Correct="True"/>
+    <Answer Text="desires" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="She shouted ______ the kids but they didn't stop making noise." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="with" Picture="" Correct="False"/>
+    <Answer Text="for" Picture="" Correct="False"/>
+    <Answer Text="at" Picture="" Correct="True"/>
+    <Answer Text="to" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="When I don't know a word, I ______ in the dictionary." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="look for it" Picture="" Correct="False"/>
+    <Answer Text="look it down" Picture="" Correct="False"/>
+    <Answer Text="look it up" Picture="" Correct="True"/>
+    <Answer Text="look at it" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="He ______ his father. They're both very hardworking." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="looks like" Picture="" Correct="False"/>
+    <Answer Text="takes after" Picture="" Correct="True"/>
+    <Answer Text="is as " Picture="" Correct="False"/>
+    <Answer Text="is how" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="Could you ______ me some money? I'll pay you back tomorrow." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="give" Picture="" Correct="False"/>
+    <Answer Text="borrow" Picture="" Correct="False"/>
+    <Answer Text="arrange" Picture="" Correct="False"/>
+    <Answer Text="lend" Picture="" Correct="True"/>
+  </Question>
+  <Question Value="The price of petrol has ______ a lot lately." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="enlarged" Picture="" Correct="False"/>
+    <Answer Text="expanded" Picture="" Correct="False"/>
+    <Answer Text="gone up" Picture="" Correct="True"/>
+    <Answer Text="been up" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="Whenever you buy electronics, you should keep the ______ in case of complaints." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="receipts" Picture="" Correct="True"/>
+    <Answer Text="refunds" Picture="" Correct="False"/>
+    <Answer Text="bills" Picture="" Correct="False"/>
+    <Answer Text="labels" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="They're so similar that we ______." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="can't tell one from the other." Picture="" Correct="True"/>
+    <Answer Text="can't see one from the other." Picture="" Correct="False"/>
+    <Answer Text="look one from the other." Picture="" Correct="False"/>
+    <Answer Text="say one from the other." Picture="" Correct="False"/>
+  </Question>
+  <Question Value="I think he didn't win the competition because he was running ______." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="naked foot." Picture="" Correct="False"/>
+    <Answer Text="undressed foot." Picture="" Correct="False"/>
+    <Answer Text="unwrapped foot." Picture="" Correct="False"/>
+    <Answer Text="bare foot." Picture="" Correct="True"/>
+  </Question>
+  <Question Value="What I think he needs is to ______ self confidence." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="develop" Picture="" Correct="False"/>
+    <Answer Text="increase" Picture="" Correct="False"/>
+    <Answer Text="grow in" Picture="" Correct="True"/>
+    <Answer Text="grow up" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="He loves animals because he was ______ in the countryside." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="grown up" Picture="" Correct="False"/>
+    <Answer Text="brought up" Picture="" Correct="True"/>
+    <Answer Text="taken up" Picture="" Correct="False"/>
+    <Answer Text="risen up" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="The man was ______ with murder and spent ten years in prison." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="held" Picture="" Correct="False"/>
+    <Answer Text="charged" Picture="" Correct="True"/>
+    <Answer Text="sentenced" Picture="" Correct="False"/>
+    <Answer Text="judged" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="He gave a great performance on TV and the ______ chose him to be the winner." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="jury" Picture="" Correct="False"/>
+    <Answer Text="committee" Picture="" Correct="False"/>
+    <Answer Text="panel" Picture="" Correct="True"/>
+    <Answer Text="team" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="If Peter ______ in advance he ______ so early, but he did." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="told / wouldn't leave." Picture="" Correct="False"/>
+    <Answer Text="had been told / wouldn't have left" Picture="" Correct="True"/>
+    <Answer Text="was told / wouldn't have left" Picture="" Correct="False"/>
+    <Answer Text="had been told / wouldn't leave" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="Most ______ stay in the cheap youth hostels and guest houses near the station. " Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="voyagers" Picture="" Correct="False"/>
+    <Answer Text="travellers" Picture="" Correct="False"/>
+    <Answer Text="backpackers" Picture="" Correct="True"/>
+    <Answer Text="hitchhikers" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="______, they can do nothing to help you." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="As long as I am informed" Picture="" Correct="False"/>
+    <Answer Text="As far as I know" Picture="" Correct="True"/>
+    <Answer Text="As well as I see" Picture="" Correct="False"/>
+    <Answer Text="As much as I know" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="At the end of the day, it's the only way you can ______ control over them." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="take" Picture="" Correct="True"/>
+    <Answer Text="obtain" Picture="" Correct="False"/>
+    <Answer Text="gain" Picture="" Correct="False"/>
+    <Answer Text="acquire" Picture="" Correct="False"/>
+  </Question>
+  <Question Value="Don't worry. I always ______ my word. All my colleagues know that." Text="" Picture="" Type="0" UseAnswerPic="False">
+    <Answer Text="keep" Picture="" Correct="True"/>
+    <Answer Text="maintain" Picture="" Correct="False"/>
+    <Answer Text="retain" Picture="" Correct="False"/>
+    <Answer Text="hold" Picture="" Correct="False"/>
+  </Question>
+</project>
